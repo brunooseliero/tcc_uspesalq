@@ -1,0 +1,37 @@
+Variável,Teste,P_Valor,Media_Classe_0,Media_Classe_1,Diferenca_Medias_Abs,Base,Alpha,Selecionada,Motivo_Selecao
+Max_Drawdown_Anual,Mann-Whitney U,1.618897495530851e-56,-0.45355654352158414,-0.28133728869405245,0.1722192548275317,Base Principal,0.05,True,p-valor <= alpha no treino
+Volatilidade_Anual,Mann-Whitney U,4.057489386605065e-11,0.4848451790121487,1.3457460893981925,0.8609009103860439,Base Principal,0.05,True,p-valor <= alpha no treino
+F_Score,Mann-Whitney U,6.732868090784641e-09,3.7111111111111112,4.320960698689956,0.6098495875788448,Base Principal,0.05,True,p-valor <= alpha no treino
+Crescimento_Receita,Mann-Whitney U,2.8517572034812684e-07,0.3417934279201062,0.4792457144859741,0.1374522865658679,Base Principal,0.05,True,p-valor <= alpha no treino
+ROIC_Premio_Risco,Mann-Whitney U,4.3993070500631057e-07,-0.019100519526092572,0.00275065630222063,0.021851175828313203,Base Principal,0.05,True,p-valor <= alpha no treino
+ROE_Premio_Risco,Mann-Whitney U,1.9271325346603817e-05,-0.11215374490925464,0.05619213577969392,0.16834588068894857,Base Principal,0.05,True,p-valor <= alpha no treino
+Beta_Ibov_Anual,Mann-Whitney U,2.8957198077092794e-05,0.847706935773545,0.799414649112413,0.048292286661131945,Base Principal,0.05,True,p-valor <= alpha no treino
+Amplitude_Intradiaria_Media,Mann-Whitney U,6.517639883415545e-05,0.03813809434091876,0.03566294978362536,0.0024751445572934044,Base Principal,0.05,True,p-valor <= alpha no treino
+Negocios_Medio_Diario,Mann-Whitney U,0.00014158701604204374,8447.591850281338,6960.049948379924,1487.5419019014143,Base Principal,0.05,True,p-valor <= alpha no treino
+Margem_Liquida,Mann-Whitney U,0.00029884755388368515,-1.7825112266637182,-2.3105421893786406,0.5280309627149224,Base Principal,0.05,True,p-valor <= alpha no treino
+Log_Ativo_Total,Mann-Whitney U,0.011235193481597768,16.105046041672537,15.847609787649368,0.25743625402316894,Base Principal,0.05,True,p-valor <= alpha no treino
+Liquidez_Anual_Log,Mann-Whitney U,0.03251398946823414,22.24402015637288,22.022879176490104,0.22114097988277592,Base Principal,0.05,True,p-valor <= alpha no treino
+Volume_Financeiro_Medio_Diario,Mann-Whitney U,0.03315813944827049,81618496.7568154,81068974.41292742,549522.3438879848,Base Principal,0.05,True,p-valor <= alpha no treino
+Segmento_Tradicional,Qui-quadrado,0.0710961297310801,0.08034188034188035,0.05021834061135371,0.030123539730526637,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Retorno_Ano_Anterior,Mann-Whitney U,0.18618975866518273,0.4780707561704292,0.29807461662435175,0.17999613954607746,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Segmento_Novo_Mercado,Qui-quadrado,0.20860681079279506,0.6803418803418804,0.7183406113537117,0.03799873101183138,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Custo_Divida_Real,Mann-Whitney U,0.21187072925256856,0.1938171469679151,0.24707443032811904,0.05325728336020394,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+DivLiq_EBITDA,Mann-Whitney U,0.21978343596834748,1.8455389653718441,2.8612676042906835,1.0157286389188394,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Financeiro,Qui-quadrado,0.22832340631458278,0.07521367521367521,0.05458515283842795,0.02062852237524726,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Materiais_Basicos,Qui-quadrado,0.22956422423339562,0.12307692307692308,0.15065502183406113,0.027578098757138042,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Comunicacoes,Qui-quadrado,0.30057405780827806,0.015384615384615385,0.006550218340611353,0.008834397044004032,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Tecnologia_Da_Informacao,Qui-quadrado,0.3202061882692274,0.039316239316239315,0.026200873362445413,0.013115365953793902,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Bens_Industriais,Qui-quadrado,0.33897216464109947,0.14871794871794872,0.17248908296943233,0.02377113425148361,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Utilidade_Publica,Qui-quadrado,0.479606465417278,0.10427350427350428,0.12008733624454149,0.01581383197103721,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Consumo_Ciclico,Qui-quadrado,0.4826784281265465,0.27008547008547007,0.24890829694323144,0.02117717314223863,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Eh_Estatal,Qui-quadrado,0.4876299099134819,0.04786324786324787,0.03711790393013101,0.010745343933116859,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Saude,Qui-quadrado,0.6535707459975899,0.08376068376068375,0.07423580786026202,0.00952487590042174,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Divida_Ativo,Mann-Whitney U,0.6888686986178433,0.29708881061718906,0.28959408212928206,0.007494728487906999,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Segmento_Nivel_2,Qui-quadrado,0.7429613726461559,0.09743589743589744,0.08951965065502183,0.007916246780875602,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Consumo_Nao_Ciclico,Qui-quadrado,0.7479568309105684,0.0735042735042735,0.08078602620087336,0.00728175269659985,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+IPCA_Anual,Mann-Whitney U,0.9548313993363212,0.061660638740752914,0.06086903637498899,0.0007916023657639215,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Nao_Classificado,Qui-quadrado,1.0,0.010256410256410256,0.008733624454148471,0.0015227858022617852,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Setor_Petroleo_Gas_E_Biocombustiveis,Qui-quadrado,1.0,0.05641025641025641,0.056768558951965066,0.00035830254170865494,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Segmento_Nivel_1,Qui-quadrado,1.0,0.14188034188034188,0.14192139737991266,4.105549957078569e-05,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Segmento_Bovespa_Mais,Sem variação suficiente,,0.0,0.0,,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
+Segmento_Bovespa_Mais_Nivel_2,Sem variação suficiente,,0.0,0.0,,Base Principal,0.05,False,Não selecionada pelo filtro estatístico
